@@ -1,0 +1,9 @@
+import { Code2, Coffee, GraduationCap } from 'lucide-react';
+import './About.css';
+
+const About = () => <main className="page inner-page">
+  <header className="page-heading"><p className="eyebrow">02 / profile</p><h1>A developer with<br /><em>a curious mind.</em></h1><p className="heading-note">I care about the details between the lines — the tiny interactions, the clean architecture, and the feeling a product leaves behind.</p></header>
+  <section className="about-grid"><div className="about-intro"><p>I&apos;m a Master of Computer Applications student specializing in Software Engineering, currently crafting full-stack web applications from Delhi, India.</p><p>I completed my Bachelor of Computer Applications in Data Science &amp; Artificial Intelligence at BBD University in Lucknow. My academic journey has built a strong foundation in programming, databases, web development, data handling, software engineering, and problem solving.</p><p>I now use that foundation to build practical interfaces and full-stack products while continuing to deepen my engineering skills.</p></div><div className="fact-stack"><article><GraduationCap /><div><b>Currently studying</b><span>Master of Computer Applications — Software Engineering</span><small>USICT, Guru Gobind Singh Indraprastha University · Sept 2025 — Present · Delhi, India</small></div></article><article><GraduationCap /><div><b>Completed education</b><span>Bachelor of Computer Applications — Data Science &amp; Artificial Intelligence</span><small>BBD University · Graduated July 2024 · Lucknow, India · CGPA 7.15</small></div></article><article><Code2 /><div><b>Current focus</b><span>Full-stack web development</span><small>Frontend · Backend · APIs · Software Engineering</small></div></article><article><Coffee /><div><b>Current mode</b><span>Learning and building practical products</span><small>One commit at a time</small></div></article></div></section>
+</main>;
+
+export default About;
