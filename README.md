@@ -34,8 +34,8 @@ A personal portfolio website for **Rishu Singh**, a full-stack developer based i
 ### Install and run locally
 
 ```bash
-git clone https://github.com/Rishu18D/My-Portfolio.git
-cd My-Portfolio
+git clone https://github.com/Rishu18D/portfolio.git
+cd portfolio
 npm install
 npm run dev
 ```
