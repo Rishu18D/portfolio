@@ -2,7 +2,7 @@
 
 A personal portfolio website for **Rishu Singh**, a full-stack developer based in Delhi, India. It brings together an introduction, education, technical skills, selected projects, résumé, and contact information in a responsive, multi-page experience.
 
-**Live website:** [my-portfolio-chi-rosy-55.vercel.app](https://my-portfolio-chi-rosy-55.vercel.app/)
+**Live website:** [portfolio-murex-delta-p49bgjc992.vercel.app](https://portfolio-murex-delta-p49bgjc992.vercel.app/)
 
 ## Features
 
